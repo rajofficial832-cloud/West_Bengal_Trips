@@ -1,0 +1,62 @@
+[
+  {
+    "id": "darjeeling-hills",
+    "title": "Darjeeling Hills Escape",
+    "location": "Darjeeling",
+    "durationDays": 4,
+    "basePricePerPerson": 8500,
+    "image": "https://picsum.photos/seed/darjeeling/600/400",
+    "description": "Toy train rides, tea gardens, and sunrise views of Kanchenjunga from Tiger Hill.",
+    "highlights": ["Tiger Hill sunrise", "Darjeeling Himalayan Railway", "Tea garden tour"]
+  },
+  {
+    "id": "sundarbans-safari",
+    "title": "Sundarbans Mangrove Safari",
+    "location": "Sundarbans",
+    "durationDays": 3,
+    "basePricePerPerson": 7200,
+    "image": "https://picsum.photos/seed/sundarbans/600/400",
+    "description": "Boat safari through mangrove creeks in search of the Royal Bengal Tiger.",
+    "highlights": ["Tiger reserve boat safari", "Mangrove forest walk", "Local fishing village visit"]
+  },
+  {
+    "id": "digha-beach",
+    "title": "Digha Beach Getaway",
+    "location": "Digha",
+    "durationDays": 2,
+    "basePricePerPerson": 4500,
+    "image": "https://picsum.photos/seed/digha/600/400",
+    "description": "A relaxed coastal break with sea-facing stays and fresh seafood.",
+    "highlights": ["Beachside stay", "Marine aquarium visit", "Sunset walk"]
+  },
+  {
+    "id": "kalimpong-retreat",
+    "title": "Kalimpong Nature Retreat",
+    "location": "Kalimpong",
+    "durationDays": 3,
+    "basePricePerPerson": 6800,
+    "image": "https://picsum.photos/seed/kalimpong/600/400",
+    "description": "Quiet hill town known for monasteries, flower nurseries, and valley views.",
+    "highlights": ["Durpin Monastery", "Flower nursery tour", "Deolo Hill viewpoint"]
+  },
+  {
+    "id": "shantiniketan-culture",
+    "title": "Shantiniketan Cultural Trail",
+    "location": "Shantiniketan",
+    "durationDays": 2,
+    "basePricePerPerson": 3900,
+    "image": "https://picsum.photos/seed/shantiniketan/600/400",
+    "description": "Explore Tagore's university town, art studios, and weekly Sonajhuri haat.",
+    "highlights": ["Visva-Bharati campus", "Sonajhuri haat market", "Local craft workshops"]
+  },
+  {
+    "id": "murshidabad-heritage",
+    "title": "Murshidabad Heritage Tour",
+    "location": "Murshidabad",
+    "durationDays": 2,
+    "basePricePerPerson": 4200,
+    "image": "https://picsum.photos/seed/murshidabad/600/400",
+    "description": "Palaces, river views, and Nawabi-era history along the Bhagirathi.",
+    "highlights": ["Hazarduari Palace", "Katra Mosque", "River boat ride"]
+  }
+]
